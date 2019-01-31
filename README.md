@@ -16,7 +16,7 @@ For Linux / MAC:
 1. Specify the output folder for the results.
 1. Check the output folder for the results.
 
-The application of the program is very simple and explained in [this YouTube video](https://youtu.be/A-gYWGp0qLk).
+The application of the program is very simple and explained in [this YouTube video](https://www.youtube.com/watch?v=9nR0Tn3pTZE).
 ![Rotate Images](https://trustmeimanengineer.de/wp-content/uploads/2019/01/RotateImages.jpg)
 
 ## Function:
